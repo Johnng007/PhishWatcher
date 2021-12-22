@@ -3,7 +3,7 @@ PhishWatcher Anti-Phishing browser extension prevents you from interacting with 
 
 You can ignore the risk and proceed to this site or let us know if you feel this domain is wrongly blacklisted.
 
-Zelda Anti Phishing browser extension is completely free and open source.
+PhishWatcher Anti Phishing browser extension is completely free and open source.
 
 
 
